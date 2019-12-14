@@ -12,4 +12,5 @@ files {
     'config.css',
     'config.js',
     'html/listener.js',
+    'html/TextLogo1.png',
 }

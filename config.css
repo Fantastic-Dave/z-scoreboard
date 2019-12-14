@@ -8,8 +8,8 @@
 	--main-font: 'Roboto Condensed', sans-serif; /* If you are using a font api, pls import it. in the index or here */
 	--main-text-color: rgba(255, 255, 255, 0.9);
 	--main-font-size: 39px;
-	--main-window-width: 370px;
-	--main-window-height: 185px;
+	--main-window-width: 1300px;
+	--main-window-height: 300px;
 	--main-text-align: left;
 	--main-heading-height: 23px;
 	--main-padding: 7px;
@@ -19,7 +19,7 @@
 	--ext-title-font-align: center;
 	--ext-title-font-color: rgb(223, 223, 223);
 	--ext-footer-font-align: right;
-	--ext-footer-font-color: rgba(190, 215, 255, 0.329);
+	--ext-footer-font-color: #fff;
   }
 /* Config END */
 
